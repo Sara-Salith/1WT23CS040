@@ -8,3 +8,10 @@ Departments: CS, IS and EC
 Mobile No: 080-25536527
 Email ID: principalgitw@gmail.com
 Address: DRC post, near Dairy Circle, Hosur Road, Bangalore-560029
+
+GITW was established in the year 2023, affiliated with Visvesvaraya Technolgical University(VTU), Belagavi, Karnataka. Recognized by AICTE, 
+New Delhi, and the Government of Karnataka, Ranking first in women's minority education in the state. The College provides Hostel facilities
+and originizes diverse programs enhancing students' overall personality. It offers B.E Programs in 
+ .Computer Science and Engineering
+ .Information Science and Engineering
+ .Electronics and Communication Engineering 
