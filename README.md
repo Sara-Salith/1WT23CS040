@@ -7,3 +7,4 @@ No. of Branches: 03
 Departments: CS, IS, and EC
 Mobile No: 080-25536527
 Address: DRC post, near Dairy Circle, Hosur Road, Bangalore-560029
+Date of Joining to GITW:15th Oct 2023
